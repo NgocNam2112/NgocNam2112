@@ -5,14 +5,20 @@
 I'm **NamNguyen**, a web developer and freelance software engineer.  
 I enjoy writing code and building things to satisfy curiosity and help others.
 
-- 🌊 Trying to understand Microservices  
-- 💻 Using Pop!_OS  
-- ☕ Drinking coffee  
-- 🦡 Being a Hufflepuff  
+- 🌱 Currently exploring Microservices architecture  
+- 💻 Daily driver: Pop!_OS Linux  
+- ☕ Can’t start a day without coffee  
+- 📚 Always reading tech + fantasy novels  
+- 🏃‍♂️ Love running and outdoor activities  
+- 🦡 Proud Hufflepuff 🪄  
 
 ### 🛠️ Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=fff)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+### 🛠️ Languages and Tools
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Vue" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+<br clear="left"/>
