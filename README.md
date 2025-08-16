@@ -1,6 +1,7 @@
 # Hello mate 👋
 
-[![https://namnguyens-portfolio.vercel.app/](https://img.shields.io/badge/Portfolio-UP-brightgreen)](https://namnguyens-portfolio.vercel.app/)
+### 🌐 My Website
+[Visit my portfolio](https://namnguyens-portfolio.vercel.app/)
 
 I'm **NamNguyen**, a web developer and freelance software engineer.  
 I enjoy writing code and building things to satisfy curiosity and help others.
@@ -13,7 +14,6 @@ I enjoy writing code and building things to satisfy curiosity and help others.
 - 🦡 Proud Hufflepuff 🪄  
 
 ### 🛠️ Languages and Tools
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Vue" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
