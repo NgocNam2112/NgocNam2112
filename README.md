@@ -1,7 +1,6 @@
 # Hello mate 👋
 
-### 🌐 My Website
-[Visit my portfolio](https://namnguyens-portfolio.vercel.app/)
+[![https://namnguyens-portfolio.vercel.app/](https://img.shields.io/badge/Portfolio-UP-brightgreen)](https://namnguyens-portfolio.vercel.app/)
 
 I'm **NamNguyen**, a web developer and freelance software engineer.  
 I enjoy writing code and building things to satisfy curiosity and help others.
